@@ -10,7 +10,7 @@ Write a single-line comment explaining each line in the `main` method.
 
 
 ### Implementation
-- Write your comment in the main function.
+- Write your comments in the main function.
   
 ```cpp
 #include <iostream>
